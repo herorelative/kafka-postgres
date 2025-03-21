@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vr0O9rMo9Vk=",
+  "success": true,
+  "projectFilePath": "C:\\project\\kafka-postgres\\example-usecases\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\95978\\.nuget\\packages\\confluent.kafka\\2.8.0\\confluent.kafka.2.8.0.nupkg.sha512",
+    "C:\\Users\\95978\\.nuget\\packages\\librdkafka.redist\\2.8.0\\librdkafka.redist.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
