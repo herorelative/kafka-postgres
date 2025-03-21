@@ -59,6 +59,7 @@ services:
     networks:
       - kafka_network
 
+# need to check another admin ui
 # control-center:
   #   image: confluentinc/cp-enterprise-control-center:latest
   #   container_name: control-center
