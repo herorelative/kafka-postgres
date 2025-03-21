@@ -39,3 +39,4 @@ C:\project\kafka-postgres\example-usecases\Consumer\obj\Debug\net8.0\refint\Cons
 C:\project\kafka-postgres\example-usecases\Consumer\obj\Debug\net8.0\Consumer.pdb
 C:\project\kafka-postgres\example-usecases\Consumer\obj\Debug\net8.0\Consumer.genruntimeconfig.cache
 C:\project\kafka-postgres\example-usecases\Consumer\obj\Debug\net8.0\ref\Consumer.dll
+C:\project\kafka-postgres\example-usecases\Consumer\obj\Debug\net8.0\Consumer.sourcelink.json
